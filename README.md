@@ -1,6 +1,6 @@
 Odpytanie https://reqres.in/api w JAVA przez org.apache.http.* oraz przetworzenie wyniku org.json.
 W celu skorzystania w projekcie w pom.xml nalezy dodać wpisy 
-    "<dependencies>
+    <dependencies>
     <dependency>
         <groupId>org.json</groupId>
         <artifactId>json</artifactId>
@@ -16,4 +16,4 @@ W celu skorzystania w projekcie w pom.xml nalezy dodać wpisy
        <artifactId>httpclient</artifactId>
        <version>4.5.10</version>
      </dependency>
-    </dependencies>"
+    </dependencies>
